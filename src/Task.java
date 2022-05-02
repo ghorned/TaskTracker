@@ -43,11 +43,19 @@ public class Task {
         this.deadline = deadline;
     }
 
-    public Text getProject() { return project; }
+    public Text getProject() {
+        return project;
+    }
 
-    public void setProject(Text project) { this.project = project; }
+    public void setProject(Text project) {
+        this.project = project;
+    }
 
-    public Color getProjectColor() { return projectColor; }
+    public Color getProjectColor() {
+        return projectColor;
+    }
 
-    public void setProjectColor(Color projectColor) { this.projectColor = projectColor; }
+    public void setProjectColor(Color projectColor) {
+        this.projectColor = projectColor;
+    }
 }
