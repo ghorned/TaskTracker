@@ -68,7 +68,7 @@ public class Tracker extends Application {
 
         // Deadline input
         deadlineInput = new DatePicker();
-        deadlineInput.setPromptText("Due Date");
+        deadlineInput.setPromptText("Deadline");
         deadlineInput.setMinWidth(200);
         deadlineInput.setPrefWidth(200);
         deadlineInput.setEditable(false);
