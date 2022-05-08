@@ -9,7 +9,7 @@ The window consists of two primary components: the table of current tasks and th
 
 ![image](https://user-images.githubusercontent.com/100661064/167276150-cccfa47e-5e14-4649-9357-54a61c12d4d3.png)
 
-In order to delete an already existing task, the user clicks on the row listing it. Once it is highlighted, the user can then simply press the `Delete` key and it will be removed from the list.
+In order to remove an already existing task, the user clicks on the row listing it. Once it is highlighted, the user can then click `delete` and it will be removed from the list.
 
 To edit an existing task, click the row you want to edit and then click `Edit`; the editing panel will autofill with the input for that task and it can then be changed. To save these changes, click `Save`.
 
